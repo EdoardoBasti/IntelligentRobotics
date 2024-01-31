@@ -1,4 +1,4 @@
-This repository will be used for the delivery of the assignment of the Intelligent Robotics 2022-2023 course at UniPD.
+Assignment of the Intelligent Robotics 2022-2023 course at UniPD.
 
 //Group 24
 //Edoardo Bastianello
